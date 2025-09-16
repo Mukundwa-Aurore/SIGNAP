@@ -1,30 +1,13 @@
-# Sign language translator app
+✨ Features
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Text → Sign: Convert typed text into sign language alphabet or animations.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mukundwaa35-gmailcoms-projects/v0-sign-language-translator-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/7kiQ8wtpusq)
+Speech → Sign: Speak into the app and get sign translations in real time.
 
-## Overview
+Sign → Text: Capture sign language gestures (via image or video input) and translate them into written text.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Step-by-Step Playback: View signs sequentially or auto-play as a full translation.
 
-## Deployment
+Multilingual Support: Translate text and speech in multiple languages into sign language.
 
-Your project is live at:
-
-**[https://vercel.com/mukundwaa35-gmailcoms-projects/v0-sign-language-translator-app](https://vercel.com/mukundwaa35-gmailcoms-projects/v0-sign-language-translator-app)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/7kiQ8wtpusq](https://v0.app/chat/projects/7kiQ8wtpusq)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+User-Friendly UI: Clean, accessible, and simple interface for all age groups.
